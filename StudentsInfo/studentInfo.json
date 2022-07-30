@@ -1,0 +1,5 @@
+[
+  { "studentFirstName": "John", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Sushant", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Kamran", "collegeName": "RIIM", "location": "Pune" }
+]
